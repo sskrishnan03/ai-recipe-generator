@@ -1,0 +1,9 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "An intelligent recipe generator that creates custom recipes based on your ingredients, dietary needs, and culinary preferences. Features include recipe generation from text and images, multiple AI chef personas, and AI-generated food photography.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
